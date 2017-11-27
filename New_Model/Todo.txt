@@ -1,0 +1,4 @@
+TODO:-
+1. Fix sliding window for HOG and SIFT so that patches are not out of image bounds
+2. Misc Code optimizations
+3. Add ML methods for actvity recognition
